@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Stratzy Automation">
+	<test name="Login Test">
+		<classes>
+			<class name="com.stratzy.test.LoginTest" />
+			<class name="" />
+		</classes>
+
+	</test>
+	<test name="Sign up">
+		<classes>
+			<class name="com.konnectbox.signup" />
+		</classes>
+	</test>
+</suite>
